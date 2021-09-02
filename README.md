@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @igafox
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![SDIM1753](https://user-images.githubusercontent.com/49146536/131768722-c70d22dd-fcb4-4fcd-8b26-b3f7d1ef3c7e.jpg)
 
-<!---
-igafox/igafox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**アイテム番号**:SCP-1515-JP-AIZ  
+  
+**オブジェクトクラス**:Euclid  
+
+**特別収容プロトコル**:SCP-1515-JP-AIZの収容は困難であるため、以下のカバーストーリーを流布することとします。[カバーストーリー:東北の伝統芸能]
+
+**説明**:SCP-1515-JP-AIZは、201■年8月■日に福島県会津地方■■で発見されました。和服に狐面を着けた姿をしています。狐にまつわる各地に出現することが確認されています。
+自我や知性をもっていますが、異常性は今の所確認されていません。
+
+SCP-1515-JP-AIZが腰に身に付けている瓢箪状の容器には、■■■■■エナジーと同成分の液体が入っていることが、接触を試みたDクラス職員■■■により証言されています。
+またラーメンと寿司、人間の[データ削除済]に強い興味関心を示すことがSCP-1515-JP-AIZへのインタビューで分かっています。
+
+**[補遺]**
+2020年8月15日に福島県会津地方■■■で発生した[クリアランス制限]にSCP-1515-JP-AIZが出現していたことが、生還したDクラス職員により証言されています。しかし、現時点でもSCP-1515-JP-AIZの異常性については確認されておらず、[クリアランス制限]の発生原因については依然として不明です。財団が認知していない異常性を所持している可能性があります。
