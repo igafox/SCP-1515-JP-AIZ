@@ -1,4 +1,4 @@
-![SDIM1753](https://user-images.githubusercontent.com/49146536/131768722-c70d22dd-fcb4-4fcd-8b26-b3f7d1ef3c7e.jpg)
+![FNVVZ84VgAMNqdC](https://user-images.githubusercontent.com/49146536/167998407-8d1b049f-036e-464e-be7b-555e42d8cda2.jpg)
 
 **アイテム番号**:SCP-1515-JP-AIZ  
   
